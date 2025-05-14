@@ -1,2 +1,19 @@
-# Korean-Institute-of-Industrial-Engineers-KIIE-2025-Spring-Conference-Poster-Session
-2025.03 -  / Scheduled to present a poster paper (2025.06)
+# Title: Korean Institute of Industrial Engineers_KIIE 2025 Spring Conference Poster Session <br/> 
+## Topic: Multi-Agent Reinforcement Learning for Collision-Free Path Optimization of AGVs in Smart Factory Environments <br/>
+## Period: 2025.03 -  / Scheduled to present a poster paper (2025.06) <br/>
+
+### Leader : <br/>
+Donghui GWON - Sungkyul Univ_Industrial Management Engineering <br/>
+
+### Members : <br/>
+
+Juhyeon I - Sungkyul Univ_Industrial Management Engineering <br/>
+![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
+### Announcement Document:<br/>
+![annou](https://github.com/user-attachments/assets/b688732b-3b9b-47a3-b8b4-2843d4ff5a3f)
+
+### Summary Preview:<br/>
+(Model) 3 Zones<br/>
+(PPT) 6 Pages / 16 Pages<br/>
+
+
