@@ -14,4 +14,3 @@ Juhyeon I - Sungkyul Univ_Industrial Management Engineering <br/>
 ### Summary Preview:<br/>
 (PPT) 6 Pages / 16 Pages<br/>
 
-
