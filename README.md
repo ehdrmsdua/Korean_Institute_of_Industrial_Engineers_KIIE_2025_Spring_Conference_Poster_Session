@@ -15,6 +15,7 @@ Juhyeon I - Sungkyul Univ_Industrial Management Engineering <br/>
 (Abstract, PPT) 2 Pages<br/>
 ![abstract](https://github.com/user-attachments/assets/acb6a1c1-06d0-4227-837d-68916682fa83)
 ![post_capt](https://github.com/user-attachments/assets/3670ac59-8a46-43bf-a8c3-c7f39cfeac4e)
+<br/>
 (Several PPT) 3 Pages / 9 Pages<br/>
 ![shot0 5](https://github.com/user-attachments/assets/d3e0c568-46a2-4812-9cae-407655bbb769)
 ![shot1](https://github.com/user-attachments/assets/37c1a8ea-877c-4c03-8881-28a08211dbb1)
