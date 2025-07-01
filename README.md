@@ -24,4 +24,5 @@ Juhyeon I - Sungkyul Univ_Industrial Management Engineering <br/>
 ![shot1](https://github.com/user-attachments/assets/37c1a8ea-877c-4c03-8881-28a08211dbb1)
 ![shot2](https://github.com/user-attachments/assets/c17e17e7-33be-4740-a9b9-f4b39240e128)
 
-
+### Field Photo:<br/>
+![field](https://github.com/user-attachments/assets/29b878c4-e3ca-4f57-94b5-4e166c0f8ecd)
